@@ -2,3 +2,5 @@
 
 Adicionando uma linha de teste
 uma nova mensagem
+
+hoje é sexta feira
